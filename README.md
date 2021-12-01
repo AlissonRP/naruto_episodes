@@ -9,7 +9,7 @@
   import pandas as pd 
   df=pd.read_csv("https://raw.githubusercontent.com/AlissonRP/naruto_episodes/main/naruto.csv?token=AO5M6I74MRABIVMD7U263XDBU4A6S")
   ``` 
-* In R  
+ * In R  
 
   ``` r
  
