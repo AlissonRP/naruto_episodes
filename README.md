@@ -8,13 +8,13 @@
  * In python  
   ``` python
   import pandas as pd 
-  df=pd.read_csv("https://raw.githubusercontent.com/AlissonRP/naruto_episodes/main/naruto.csv?token=AO5M6I74MRABIVMD7U263XDBU4A6S")
+  df=pd.read_csv("https://raw.githubusercontent.com/AlissonRP/naruto_episodes/main/naruto.csv")
   ``` 
  * In R  
 
   ``` r
  
-  df=read.csv("https://raw.githubusercontent.com/AlissonRP/naruto_episodes/main/naruto.csv?token=AO5M6I74MRABIVMD7U263XDBU4A6S")
+  df=read.csv("https://raw.githubusercontent.com/AlissonRP/naruto_episodes/main/naruto.csv")
   #or 
-  df=readr::read_csv("https://raw.githubusercontent.com/AlissonRP/naruto_episodes/main/naruto.csv?token=AO5M6I74MRABIVMD7U263XDBU4A6S")
+  df=readr::read_csv("https://raw.githubusercontent.com/AlissonRP/naruto_episodes/main/naruto.csv")
   ```
