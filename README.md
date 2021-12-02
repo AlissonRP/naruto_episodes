@@ -8,7 +8,7 @@
  * In python  
   ``` python
   import pandas as pd 
-  df=pd.read_csv("https://raw.githubusercontent.com/AlissonRP/naruto_episodes/main/naruto.csv")
+  df=pd.read_csv("https://raw.githubusercontent.com/AlissonRP/naruto_episodes/main/naruto.csv",encoding='cp1252')
   ``` 
  * In R  
 
